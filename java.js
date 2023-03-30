@@ -1,6 +1,3 @@
-<html>
-    <head>
-        <body>
             <script>
                 function myFunction() {
                     Var txt;
@@ -11,7 +8,4 @@
                     }
                     })
                 }
-            </script>
-        </body>
-    </head>
-</html>
+            </script>    
